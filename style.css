@@ -1,0 +1,30 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  background-color: wheat;
+}
+
+h1 {
+  color: blue;
+  text-shadow: -3px 3px 10px;
+}
+
+h6 {
+  color: blue;
+  text-shadow: -3px 3px 10px;
+}
+
+h3 {
+  color: blue;
+  text-shadow: -3px 3px 10px;
+}
+
+p {
+  margin: 4px 4px;
+}
+
+img {
+  border: 1px solid wheat;
+  border-radius: 8px;
+  margin: 3px 3px;
+}
